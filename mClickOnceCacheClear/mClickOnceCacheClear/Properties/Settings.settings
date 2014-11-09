@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="mClickOnceCacheClear.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Debug" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="SearchTerms" Type="System.String" Scope="User">
+      <Value Profile="(Default)">prol...dll|prol..vsto|xcee..grid|xcee..rols|outl...dll|outl..vsto</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
