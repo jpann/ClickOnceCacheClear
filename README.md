@@ -1,7 +1,7 @@
 ClickOnceCacheClear
 ===================
 
-Simple application that backs up and clears the ClickOnce application cache of anything matching the specified Regex expression search terms specified in the App.config's  pip delimited 'SearchTerms' variable. You'll need to modify the default search terms included in the App.config to suite your needs.
+Simple application that backs up and clears the ClickOnce application cache of anything matching the specified Regex expression search terms in the App.config's pipe delimited 'SearchTerms' variable. You'll need to modify the default search terms included in the App.config to suite your needs.
 
 For situations where "Mage.exe -cc" and rundll32 %windir%\system32\dfshim.dll CleanOnlineAppCache" don't do the job.
 
